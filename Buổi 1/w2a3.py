@@ -1,8 +1,0 @@
-a = int(input("Nhập số a: "))
-b = int(input("Nhập số b: "))
-print(f'Tổng của {a} và {b} là: {a + b}')
-print(f'Hiệu của {a} và {b} là: {a - b}')
-print(f'Tích của {a} và {b} là: {a * b}')
-print(f'Phần nguyên của {a} chia {b} là: {a // b}')
-print(f'Phần dư của {a} chia {b} là: {a % b}')
-print(f'Thương của {a} chia {b} là: {a / b :.2f}')
